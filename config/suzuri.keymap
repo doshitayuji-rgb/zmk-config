@@ -60,4 +60,4 @@
 //             process-next;
 //         };
 //     };
-// };
+// };CONFIG_PMW3610_INVERT_Y=y
